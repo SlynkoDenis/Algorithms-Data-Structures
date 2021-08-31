@@ -1,0 +1,5 @@
+**/.idea
+**/*.tex
+**/*.bak
+**/*.tar
+**/cmake-build-debug
