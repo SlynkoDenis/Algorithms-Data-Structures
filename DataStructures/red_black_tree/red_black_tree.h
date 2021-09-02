@@ -264,7 +264,7 @@ namespace RedBlackTree {
 
 
     template<typename K, typename V>
-    class RedBlackTree {
+    class RedBlackTree final {
     public:
         RedBlackTree() : top(nullptr) {};
 
