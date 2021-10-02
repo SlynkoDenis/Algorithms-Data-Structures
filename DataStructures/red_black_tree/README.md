@@ -1,4 +1,4 @@
-#Red-Black Tree
+# Red-Black Tree
 Classic Red-black Tree data structure implementation. Provided with the main file for test purposes - can generate
 test-data or test insert, traversal and destructor functions.
 

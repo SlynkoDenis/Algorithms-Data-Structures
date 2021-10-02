@@ -3,3 +3,4 @@
 **/*.bak
 **/*.tar
 **/cmake-build-debug
+**/__pycache__
